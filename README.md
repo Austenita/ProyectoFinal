@@ -23,5 +23,5 @@ Página web con estética suave/minimalista y colores pastel (fondo beige) que e
 4. Guardar y esperar el despliegue
 
 ## URL pública
-- GitHub Pages: https://Austenita.github.io/TU_REPO/
-- Repositorio: https://github.com/austenita/TU_REPO
+- GitHub Pages: https://Austenita.github.io/ProyectoFinal
+- Repositorio: https://github.com/austenita/ProyectoFinal
